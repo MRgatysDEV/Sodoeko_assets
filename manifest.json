@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "minecraft_version": "1.20.1",
+  "description": "Sodoeko Server Assets - моды и текстурпаки для сервера",
+  "mods": [
+    {
+      "name": "fabric-api-0.92.0+1.20.1.jar",
+      "hash": "ЗАМЕНИТЕ_НА_REAL_SHA256_HASH",
+      "url": "https://raw.githubusercontent.com/ВАШ_НИК/sodoeko-assets/main/mods/fabric-api-0.92.0+1.20.1.jar"
+    },
+    {
+      "name": "sodium-mc1.20.1-0.5.11.jar",
+      "hash": "ЗАМЕНИТЕ_НА_REAL_SHA256_HASH",
+      "url": "https://raw.githubusercontent.com/ВАШ_НИК/sodoeko-assets/main/mods/sodium-mc1.20.1-0.5.11.jar"
+    }
+  ],
+  "resourcepacks": [
+    {
+      "name": "Sodoeko-RP-v1.zip",
+      "hash": "ЗАМЕНИТЕ_НА_REAL_SHA256_HASH",
+      "url": "https://raw.githubusercontent.com/ВАШ_НИК/sodoeko-assets/main/resourcepacks/Sodoeko-RP-v1.zip"
+    }
+  ]
+}
