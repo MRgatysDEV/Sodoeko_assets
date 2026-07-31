@@ -456,30 +456,12 @@
   "connector_mods": [],
   "adapter_mods": [],
   "temp_mods": [],
-  "resourcepacks": [
-    {
-      "name": "1.12.zip",
-      "path": "resourcepacks\\1.12.zip",
-      "hash": "9bc77c6ece269094a3bec312a0ac7124eca41f1a6a453f2ddad9b5835b14f815",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/1.12.zip"
-    },
-    {
-      "name": "3DSwordsPackbycreatorLabs_1.9_1.12_V1.0.0.0.zip",
-      "path": "resourcepacks\\3DSwordsPackbycreatorLabs_1.9_1.12_V1.0.0.0.zip",
-      "hash": "a8e6c31c8fae308e5f3a927a1170d8bea9df850460e6991c491c5c71d25f991f",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/3DSwordsPackbycreatorLabs_1.9_1.12_V1.0.0.0.zip"
-    },
-    {
-      "name": "Astral_V.11_1.zip",
-      "path": "resourcepacks\\Astral_V.11_1.zip",
-      "hash": "cc01ca8d8b7f5aa7b502d4a30961a1832913e66633aa3967b2d5530a61f66f3c",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Astral_V.11_1.zip"
-    },
+ "resourcepacks": [
     {
       "name": "Blades Of Majestica1.zip",
       "path": "resourcepacks\\Blades Of Majestica1.zip",
       "hash": "0e5a892a0bccfe1e55d5e651afcb1ac9483caf625a29668f7e51b1e788d7f8d7",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Blades Of Majestica1.zip"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Blades%20Of%20Majestica1.zip"
     },
     {
       "name": "Blades-of-War-2_v1.9.zip",
@@ -488,22 +470,10 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Blades-of-War-2_v1.9.zip"
     },
     {
-      "name": "kitsune-masks-cit.zip",
-      "path": "resourcepacks\\kitsune-masks-cit.zip",
-      "hash": "f38a85468f671f80285872e741e124b0605055ad6b47509ba4748448e9b574c7",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/kitsune-masks-cit.zip"
-    },
-    {
       "name": "ksepsp-9-0-3-cut.zip",
       "path": "resourcepacks\\ksepsp-9-0-3-cut.zip",
       "hash": "f815817c4f0b70c53acaae2746d927d28fba5385fdf6a5fe8ff0b46b37eb15d3",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/ksepsp-9-0-3-cut.zip"
-    },
-    {
-      "name": "Naruto_Adventures-4.2.1.zip",
-      "path": "resourcepacks\\Naruto_Adventures-4.2.1.zip",
-      "hash": "307606bc02e8c498afd623adb8aa44f51daa631e74fff1392a2d2b8a371c58d7",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Naruto_Adventures-4.2.1.zip"
     },
     {
       "name": "roboto-bold+120.zip",
@@ -518,46 +488,16 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/SodoekoRP.zip"
     },
     {
-      "name": "soft-weather-1.0-1.16.zip",
-      "path": "resourcepacks\\soft-weather-1.0-1.16.zip",
-      "hash": "f5e459943303fa6040221bca5e77eba57a207a02448fccb363d998544ba746d0",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/soft-weather-1.0-1.16.zip"
-    },
-    {
-      "name": "Weapons_v1.zip",
-      "path": "resourcepacks\\Weapons_v1.zip",
-      "hash": "aa0bafeb7824be67f25ec236aee9829a80084b41748edff9058581b7ccb00b87",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Weapons_v1.zip"
-    },
-    {
       "name": "whimsy-horns-and-antlers-v1.zip",
       "path": "resourcepacks\\whimsy-horns-and-antlers-v1.zip",
       "hash": "8de21f3b40ef6b6d978ad091c5b091abc369ad19f6ddcf3af0810acfaea118a7",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/whimsy-horns-and-antlers-v1.zip"
     },
     {
-      "name": "WinRAR archive.rar",
-      "path": "resourcepacks\\WinRAR archive.rar",
-      "hash": "4301ec2e9592e7a22262d1c046954545033b73be322b33a8117d201556c4254b",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/WinRAR archive.rar"
-    },
-    {
-      "name": "Xray_Ultimate_1.20.1_v4.2.5.zip",
-      "path": "resourcepacks\\Xray_Ultimate_1.20.1_v4.2.5.zip",
-      "hash": "b28b445e58519089ba226911c7edabc1a05804e3c1a236bf6887f9caf8ef9eb7",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Xray_Ultimate_1.20.1_v4.2.5.zip"
-    },
-    {
       "name": "Yamakashi skateboards.zip",
       "path": "resourcepacks\\Yamakashi skateboards.zip",
       "hash": "968ec0580bd270c4c95d04577d31f3b2aa20084f4f368008d9ea0beb266255a4",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Yamakashi skateboards.zip"
-    },
-    {
-      "name": "§2Grassy§0_§2Grass§0_§8[v1]§0.zip",
-      "path": "resourcepacks\\§2Grassy§0_§2Grass§0_§8[v1]§0.zip",
-      "hash": "25052330974428a03b442064f0fc6c6754ee06905aca668b58a2027b9389e8f2",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/§2Grassy§0_§2Grass§0_§8[v1]§0.zip"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Yamakashi%20skateboards.zip"
     }
   ],
   "emotes": []
