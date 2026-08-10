@@ -3,6 +3,102 @@
   "minecraft_version": "1.20.1",
   "mods": [
     {
+      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
+      "path": "mods\\.connector\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
+      "hash": "f0f58ee6c0319b62d47877ea0f0b6351b71eb1aae1f35c5b331f51e28a2cf833",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\.connector\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
+      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input"
+    },
+    {
+      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+      "path": "mods\\.connector\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+      "hash": "b6f686b9d8ed7e882db25f950b53241805ab832220cfbc04212900c34442cfef",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/continuity-3.0.0%2B1.20.1.forge_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\.connector\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+      "hash": "355e0d5632adb5e8d431d801a78b679bd265bf557f6974c8fdc0c236a461aff2",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/continuity-3.0.0%2B1.20.1.forge_mapped_srg_1.20.1.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
+      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
+      "hash": "7d3c6e4718816a2abc5add17caec3da4499e6bcb9383ddbaa1ddd99598852c51",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24player-animation-lib-fabric-1.0.2-rc1%2B1.20_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
+      "hash": "1c8c3f012093756739293c84554e7e27e5e9112f9b3d9d95071d19799de29e65",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24player-animation-lib-fabric-1.0.2-rc1%2B1.20_mapped_srg_1.20.1.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
+      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
+      "hash": "4152823606c2ffb3dfb1f425dd17e8a7e556033656e621a7090352accd87468e",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
+      "hash": "1569b97e47511c2f3d81577ee26e1f803f8272919eea9c26fc6c5566c9c7411a",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
+      "hash": "ff7aacff591da1a0380e8cd9a896473fe7eee19ea87ec36ea766e22931890af7",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24bendy-lib-fabric-4.0.0.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
+      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24bendy-lib-fabric-4.0.0.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "hash": "7d94ead05775430c70fe9445a7211b8c5a3b43e30c6f64e8d0314c795a1812ff",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
+      "hash": "1c8c3f012093756739293c84554e7e27e5e9112f9b3d9d95071d19799de29e65",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$bendy-lib-fabric-4.0.0.jar",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$bendy-lib-fabric-4.0.0.jar",
+      "hash": "ff7aacff591da1a0380e8cd9a896473fe7eee19ea87ec36ea766e22931890af7",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1%24bendy-lib-fabric-4.0.0.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$bendy-lib-fabric-4.0.0.jar.input",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$bendy-lib-fabric-4.0.0.jar.input",
+      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1%24bendy-lib-fabric-4.0.0.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "hash": "7d94ead05775430c70fe9445a7211b8c5a3b43e30c6f64e8d0314c795a1812ff",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1%24player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
+      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
+      "hash": "1c8c3f012093756739293c84554e7e27e5e9112f9b3d9d95071d19799de29e65",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1%24player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar.input"
+    },
+    {
       "name": "athena-forge-1.20.1-3.1.2.jar",
       "path": "mods\\athena-forge-1.20.1-3.1.2.jar",
       "hash": "64eec9cffb8847a459536096ac396b135ffb07c7d9d13c6a47d9cd7b251276ab",
@@ -13,6 +109,18 @@
       "path": "mods\\bendy-lib-fabric-4.0.0.jar",
       "hash": "ff7aacff591da1a0380e8cd9a896473fe7eee19ea87ec36ea766e22931890af7",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/bendy-lib-fabric-4.0.0.jar"
+    },
+    {
+      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
+      "path": "mods\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
+      "hash": "ca53fa3290430422a957afb7659728930630540e788ca5629c4c8cdb2eee607e",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
+      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input"
     },
     {
       "name": "betterfpsdist-1.20.1-6.0.jar",
@@ -39,6 +147,12 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/citresewn-1.20.1-5.jar"
     },
     {
+      "name": "citresewn-1.20.1-5.jar.bak",
+      "path": "mods\\citresewn-1.20.1-5.jar.bak",
+      "hash": "b7fdf42262e9be2dd599386128ed0383d339dd4b585eea0f73f5bde5f0de5832",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/citresewn-1.20.1-5.jar.bak"
+    },
+    {
       "name": "Connector-1.0.0-beta.48-1.20.1.jar",
       "path": "mods\\Connector-1.0.0-beta.48-1.20.1.jar",
       "hash": "6226500de5d240d44244d8f35b402148667cc37a75d63d0e55800e049c82905c",
@@ -48,13 +162,25 @@
       "name": "ConnectorExtras-1.11.2+1.20.1.jar",
       "path": "mods\\ConnectorExtras-1.11.2+1.20.1.jar",
       "hash": "10d149fc9348b57120f50e3f82ac6f7e544ae18f0b5b7342c0cab3af38f5acd8",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/ConnectorExtras-1.11.2+1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/ConnectorExtras-1.11.2%2B1.20.1.jar"
     },
     {
       "name": "continuity-3.0.0+1.20.1.forge.jar",
       "path": "mods\\continuity-3.0.0+1.20.1.forge.jar",
       "hash": "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/continuity-3.0.0+1.20.1.forge.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/continuity-3.0.0%2B1.20.1.forge.jar"
+    },
+    {
+      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+      "path": "mods\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+      "hash": "c6547ab2049dc1b44cedad065500d33a81142a01c266f85a9848ce02773507d1",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/continuity-3.0.0%2B1.20.1.forge_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+      "hash": "355e0d5632adb5e8d431d801a78b679bd265bf557f6974c8fdc0c236a461aff2",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/continuity-3.0.0%2B1.20.1.forge_mapped_srg_1.20.1.jar.input"
     },
     {
       "name": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
@@ -73,6 +199,12 @@
       "path": "mods\\CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
       "hash": "c07621a3da2a45e44365227c8eba529f505e88734bbacd1c01fec5702b1551db",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar"
+    },
+    {
+      "name": "CustomPlayerModels-1.20-0.6.27a.jar",
+      "path": "mods\\CustomPlayerModels-1.20-0.6.27a.jar",
+      "hash": "f4964fb5b008eea1401853c6ba19a623b5fd6f10e3e14c77d686d999a0bb7c42",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/CustomPlayerModels-1.20-0.6.27a.jar"
     },
     {
       "name": "decorative-particle-forge-1.20.1-1.2.0.jar",
@@ -99,16 +231,52 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/embeddium-0.3.31-mc1.20.1.jar"
     },
     {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
+      "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
+      "hash": "ff7aacff591da1a0380e8cd9a896473fe7eee19ea87ec36ea766e22931890af7",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24bendy-lib-fabric-4.0.0.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
+      "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
+      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24bendy-lib-fabric-4.0.0.jar.input"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "hash": "7d94ead05775430c70fe9445a7211b8c5a3b43e30c6f64e8d0314c795a1812ff",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
+      "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
+      "hash": "1c8c3f012093756739293c84554e7e27e5e9112f9b3d9d95071d19799de29e65",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric%24player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar.input"
+    },
+    {
       "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
       "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
       "hash": "e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar"
     },
     {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
+      "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
+      "hash": "24926a40e4a38b06567627b158de16660f5d6610fa88c1b6a241070ab079b275",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
+      "hash": "1569b97e47511c2f3d81577ee26e1f803f8272919eea9c26fc6c5566c9c7411a",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input"
+    },
+    {
       "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
       "path": "mods\\fabric-api-0.92.6+1.11.14+1.20.1.jar",
       "hash": "9b140af437581d32e5ee17d20f8fe882000e6a34cba85c152ae5bccc9570cc03",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
     },
     {
       "name": "FarmersDelight-1.20.1-1.3.2.jar",
@@ -153,12 +321,6 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/imitari-0.1.0.jar"
     },
     {
-      "name": "immersive_paintings-0.6.13-1.20.1-forge.jar",
-      "path": "mods\\immersive_paintings-0.6.13-1.20.1-forge.jar",
-      "hash": "069d5dffa4060d965899e607fad725c4d80a8086cef64f1d7563259b0a070633",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/immersive_paintings-0.6.13-1.20.1-forge.jar"
-    },
-    {
       "name": "kotlinforforge-4.12.0-all.jar",
       "path": "mods\\kotlinforforge-4.12.0-all.jar",
       "hash": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
@@ -174,13 +336,13 @@
       "name": "memoryleakfix-forge-1.17+-1.1.5.jar",
       "path": "mods\\memoryleakfix-forge-1.17+-1.1.5.jar",
       "hash": "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/memoryleakfix-forge-1.17%2B-1.1.5.jar"
     },
     {
       "name": "MRU-1.0.4+1.20.1+forge.jar",
       "path": "mods\\MRU-1.0.4+1.20.1+forge.jar",
       "hash": "520c07bceb8987c4bb355d32b495ae03e4f106553df47b1a9691a08420016fa2",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/MRU-1.0.4+1.20.1+forge.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/MRU-1.0.4%2B1.20.1%2Bforge.jar"
     },
     {
       "name": "oculus-mc1.20.1-1.7.0.jar",
@@ -210,7 +372,19 @@
       "name": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
       "path": "mods\\player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
       "hash": "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar"
+    },
+    {
+      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
+      "path": "mods\\player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
+      "hash": "4c449abd52f4a341ed6eba185c03246b64e5650cd592d9e504b506ecd2566a0d",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/player-animation-lib-fabric-1.0.2-rc1%2B1.20_mapped_srg_1.20.1.jar"
+    },
+    {
+      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
+      "path": "mods\\player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
+      "hash": "fb8eaad06558b8154252cd5fa252bb1c44273603515d90cc7920799c48033102",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/player-animation-lib-fabric-1.0.2-rc1%2B1.20_mapped_srg_1.20.1.jar.input"
     },
     {
       "name": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
@@ -240,7 +414,7 @@
       "name": "Sounds-2.2.1+1.20.1+forge.jar",
       "path": "mods\\Sounds-2.2.1+1.20.1+forge.jar",
       "hash": "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/Sounds-2.2.1+1.20.1+forge.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/Sounds-2.2.1%2B1.20.1%2Bforge.jar"
     },
     {
       "name": "textiles_and_trinkets-1.1.3-forge-1.20.1.jar",
@@ -252,7 +426,7 @@
       "name": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
       "path": "mods\\The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
       "hash": "f26aace5460890b9a46094586530708517b58fc1e8752055882fd4f03912f07d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/The_Graveyard_3.1_%28FORGE%29_for_1.20.1.jar"
     },
     {
       "name": "title_blobcat-1.20.1-1.0.3.jar",
@@ -285,6 +459,12 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/WI-Zoom-1.5-MC1.20.1-Forge.jar"
     },
     {
+      "name": "wings-2.1.4-all.jar",
+      "path": "mods\\wings-2.1.4-all.jar",
+      "hash": "168882c965192869aa54e93a3b7766a7967f54ae484f690faf87b25304ed7bd7",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/wings-2.1.4-all.jar"
+    },
+    {
       "name": "worldedit-mod-7.2.15-1.20.1-fabric-forge.jar",
       "path": "mods\\worldedit-mod-7.2.15-1.20.1-fabric-forge.jar",
       "hash": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
@@ -297,166 +477,22 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/WorldEditCUI-1.20-01.jar"
     },
     {
-      "name": "XaerosWorldMap_1.39.2_Forge_1.20.jar",
-      "path": "mods\\XaerosWorldMap_1.39.2_Forge_1.20.jar",
-      "hash": "207895a2f0d04e128b952d959855dfb9582eb2176bd840045a74b2f9debf35ee",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/XaerosWorldMap_1.39.2_Forge_1.20.jar"
-    },
-    {
       "name": "Xaeros_Minimap_24.3.0_Forge_1.20.jar",
       "path": "mods\\Xaeros_Minimap_24.3.0_Forge_1.20.jar",
       "hash": "69e0d047cb3212759887dd305a497d4f189f7c2b0b162485a68d259693a36e0c",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/Xaeros_Minimap_24.3.0_Forge_1.20.jar"
     },
     {
-      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
-      "hash": "ca53fa3290430422a957afb7659728930630540e788ca5629c4c8cdb2eee607e",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
-      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
-      "hash": "c6547ab2049dc1b44cedad065500d33a81142a01c266f85a9848ce02773507d1",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
-      "hash": "355e0d5632adb5e8d431d801a78b679bd265bf557f6974c8fdc0c236a461aff2",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
-      "hash": "24926a40e4a38b06567627b158de16660f5d6610fa88c1b6a241070ab079b275",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
-      "hash": "1569b97e47511c2f3d81577ee26e1f803f8272919eea9c26fc6c5566c9c7411a",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
-      "hash": "4c449abd52f4a341ed6eba185c03246b64e5650cd592d9e504b506ecd2566a0d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
-      "hash": "fb8eaad06558b8154252cd5fa252bb1c44273603515d90cc7920799c48033102",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
-      "hash": "ff7aacff591da1a0380e8cd9a896473fe7eee19ea87ec36ea766e22931890af7",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
-      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
-      "hash": "7d94ead05775430c70fe9445a7211b8c5a3b43e30c6f64e8d0314c795a1812ff",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
-      "hash": "1c8c3f012093756739293c84554e7e27e5e9112f9b3d9d95071d19799de29e65",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input"
-    },
-    {
-      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar",
-      "hash": "ca53fa3290430422a957afb7659728930630540e788ca5629c4c8cdb2eee607e",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input",
-      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/bendy-lib-fabric-4.0.0_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
-      "hash": "c6547ab2049dc1b44cedad065500d33a81142a01c266f85a9848ce02773507d1",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
-      "hash": "355e0d5632adb5e8d431d801a78b679bd265bf557f6974c8fdc0c236a461aff2",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar",
-      "hash": "24926a40e4a38b06567627b158de16660f5d6610fa88c1b6a241070ab079b275",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input",
-      "hash": "1569b97e47511c2f3d81577ee26e1f803f8272919eea9c26fc6c5566c9c7411a",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
-      "path": "mods\\.connector\\player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar",
-      "hash": "4c449abd52f4a341ed6eba185c03246b64e5650cd592d9e504b506ecd2566a0d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar"
-    },
-    {
-      "name": "player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
-      "path": "mods\\.connector\\player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input",
-      "hash": "fb8eaad06558b8154252cd5fa252bb1c44273603515d90cc7920799c48033102",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/player-animation-lib-fabric-1.0.2-rc1+1.20_mapped_srg_1.20.1.jar.input"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar",
-      "hash": "ff7aacff591da1a0380e8cd9a896473fe7eee19ea87ec36ea766e22931890af7",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input",
-      "hash": "1f6f060f77c96905c63349b1040f5a5f4382c5f2ac5d768bddab536f671b2e0d",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$bendy-lib-fabric-4.0.0.jar.input"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
-      "hash": "7d94ead05775430c70fe9445a7211b8c5a3b43e30c6f64e8d0314c795a1812ff",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar"
-    },
-    {
-      "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
-      "path": "mods\\.connector\\temp\\emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input",
-      "hash": "1c8c3f012093756739293c84554e7e27e5e9112f9b3d9d95071d19799de29e65",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/temp/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric$player-animation-lib-fabric-1.0.2-rc1+1.20.jar.input"
+      "name": "XaerosWorldMap_1.39.2_Forge_1.20.jar",
+      "path": "mods\\XaerosWorldMap_1.39.2_Forge_1.20.jar",
+      "hash": "207895a2f0d04e128b952d959855dfb9582eb2176bd840045a74b2f9debf35ee",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/XaerosWorldMap_1.39.2_Forge_1.20.jar"
     }
   ],
   "connector_mods": [],
   "adapter_mods": [],
   "temp_mods": [],
- "resourcepacks": [
+  "resourcepacks": [
     {
       "name": "Blades Of Majestica1.zip",
       "path": "resourcepacks\\Blades Of Majestica1.zip",
@@ -479,7 +515,7 @@
       "name": "roboto-bold+120.zip",
       "path": "resourcepacks\\roboto-bold+120.zip",
       "hash": "86cf01eb61ef48236159009e704454417c2062b975e428ad3faf5dcc98306931",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/roboto-bold+120.zip"
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/roboto-bold%2B120.zip"
     },
     {
       "name": "SodoekoRP.zip",
