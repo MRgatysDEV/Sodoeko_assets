@@ -315,42 +315,42 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/XaerosWorldMap_1.39.2_Forge_1.20.jar"
     },
     {
-      "name": "BorderlessWindow-1_20-1_6_0.jar",
-      "path": "mods\\BorderlessWindow-1_20-1_6_0.jar",
+      "name": "BorderlessWindow-1.20-1.6.0.jar",
+      "path": "mods\\BorderlessWindow-1.20-1.6.0.jar",
       "hash": "43a317d85e7e40cea296ad1fe2d32f433f0e735bdb81b136f6f07d379039c3a9",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/BorderlessWindow-1_20-1_6_0.jar",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/BorderlessWindow-1.20-1.6.0.jar",
       "optional": true,
       "description": "Оконный безрамочный режим (borderless fullscreen)"
     },
     {
-      "name": "architectury-9_2_14-forge.jar",
-      "path": "mods\\architectury-9_2_14-forge.jar",
+      "name": "architectury-9.2.14-forge.jar",
+      "path": "mods\\architectury-9.2.14-forge.jar",
       "hash": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/architectury-9_2_14-forge.jar",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/architectury-9.2.14-forge.jar",
       "optional": true,
       "description": "Библиотека-зависимость Architectury API"
     },
     {
-      "name": "smooth_f5-forge-1_3_0.jar",
-      "path": "mods\\smooth_f5-forge-1_3_0.jar",
+      "name": "smooth_f5-forge-1.3.0.jar",
+      "path": "mods\\smooth_f5-forge-1.3.0.jar",
       "hash": "c3c6f805aa92205209b71a81f0185ce6172f6e9a2a2bf474f83259a07aa27cf1",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/smooth_f5-forge-1_3_0.jar",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/smooth_f5-forge-1.3.0.jar",
       "optional": true,
       "description": "Плавная перезагрузка чанков по F5 вместо резкого мигания"
     },
     {
-      "name": "skinlayers3d-forge-1_11_2-mc1_20_1.jar",
-      "path": "mods\\skinlayers3d-forge-1_11_2-mc1_20_1.jar",
+      "name": "skinlayers3d-forge-1.11.2-mc1.20.1.jar",
+      "path": "mods\\skinlayers3d-forge-1.11.2-mc1.20.1.jar",
       "hash": "2d35eff3e2642e8a6f7fb4cc7461211699ee2e32b9644e0d3b3bd6ba1574551c",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/skinlayers3d-forge-1_11_2-mc1_20_1.jar",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar",
       "optional": true,
       "description": "3D-слои скина (шляпы, рукава, штаны как в реальном объёме)"
     },
     {
-      "name": "punchy-2_5_6-forge-1_20_1.jar",
-      "path": "mods\\punchy-2_5_6-forge-1_20_1.jar",
+      "name": "punchy-2.5.6-forge-1.20.1.jar",
+      "path": "mods\\punchy-2.5.6-forge-1.20.1.jar",
       "hash": "9bdc30a810eba1fef37d7b81afb0fbfab61d984edc1822b09daaa4371848d3fa",
-      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/punchy-2_5_6-forge-1_20_1.jar",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/punchy-2.5.6-forge-1.20.1.jar",
       "optional": true,
       "description": "QoL-правки боя: индикатор отката атаки и т.п."
     },
