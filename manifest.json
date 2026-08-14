@@ -369,6 +369,14 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/litematica-fabric-1.20.1-0.15.4.jar",
       "optional": true,
       "description": "Схематики: печать и построение по схеме (через Sinytra Connector)"
+    },
+    {
+      "name": "windy_forge-1_20_1-v1_1_1.jar",
+      "path": "mods\\windy_forge-1_20_1-v1_1_1.jar",
+      "hash": "bac0f9ce176b1731d37c35dbaf59419da3156f31044c1e57d8a12c65822178b8",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/windy_forge-1_20_1-v1_1_1.jar",
+      "optional": true,
+      "description": "Добавляет настраиваемые эффекты ветра"
     }
   ],
   "adapter_mods": [],
@@ -415,6 +423,12 @@
       "path": "resourcepacks\\Yamakashi skateboards.zip",
       "hash": "968ec0580bd270c4c95d04577d31f3b2aa20084f4f368008d9ea0beb266255a4",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Yamakashi%20skateboards.zip"
+    },
+    {
+      "name": "ksepsp-9-0-3-no-conflicts.zip",
+      "path": "resourcepacks\\ksepsp-9-0-3-no-conflicts.zip",
+      "hash": "5e585a6582c8284471f1885ace2f1038412b8adb48c4d148ce291aea9afda399",
+      "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/ksepsp-9-0-3-no-conflicts.zip"
     }
   ],
   "emotes": [],
