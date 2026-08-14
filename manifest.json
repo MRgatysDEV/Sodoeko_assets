@@ -353,12 +353,10 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/punchy-2_5_6-forge-1_20_1.jar",
       "optional": true,
       "description": "QoL-правки боя: индикатор отката атаки и т.п."
-    }
-  ],
-  "connector_mods": [
+    },
     {
       "name": "malilib-fabric-1.20.1-0.16.3.jar",
-      "path": "mods\\.connector\\malilib-fabric-1.20.1-0.16.3.jar",
+      "path": "mods\\malilib-fabric-1.20.1-0.16.3.jar",
       "hash": "5ae189f27fbd49aa48e83e00251fe1d75c3e42c74f55575ae4e0a232ad0c3589",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/malilib-fabric-1.20.1-0.16.3.jar",
       "optional": true,
@@ -366,7 +364,7 @@
     },
     {
       "name": "litematica-fabric-1.20.1-0.15.4.jar",
-      "path": "mods\\.connector\\litematica-fabric-1.20.1-0.15.4.jar",
+      "path": "mods\\litematica-fabric-1.20.1-0.15.4.jar",
       "hash": "ddfcce1c069980e3f88900e69a8762548e5422511c09b323df7005ff00e80c85",
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/mods/.connector/litematica-fabric-1.20.1-0.15.4.jar",
       "optional": true,
@@ -419,5 +417,6 @@
       "url": "https://raw.githubusercontent.com/MRgatysDEV/Sodoeko_assets/main/resourcepacks/Yamakashi%20skateboards.zip"
     }
   ],
-  "emotes": []
+  "emotes": [],
+  "connector_mods": []
 }
